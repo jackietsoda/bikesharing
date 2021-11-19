@@ -10,7 +10,7 @@ The purpose of this project is to convince investors that a bike-sharing program
 - Showed the number of bike trips for each type of user and gender for each day of the week.
 - Showed the top starting and ending locations
 
-After doing all this work, I used these visualizations for my final presentation and analysis to pitch to investors. Here is the link: https://public.tableau.com/app/profile/jacqueline.tsodikova/viz/NYCCitibike_16372800676230/NYCCitibike?publish=yes
+After doing all this work, I used these visualizations for my final presentation and analysis to pitch to investors. Here is the [link to the dashboard](https://public.tableau.com/views/NYCCitibike_16372800676230/NYCCitibike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 ## Results
 
