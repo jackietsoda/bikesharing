@@ -58,9 +58,9 @@ Male subscribers using the bike sharing service the most on Thursdays and Friday
 
 The top starting and ending location is around Manhattan Island, probably due to workers commuting here and also a big tourist attraction. 
 
-<img width="898" alt="Screen Shot 2021-11-17 at 8 26 23 PM" src="https://user-images.githubusercontent.com/88408350/142351722-373c09dc-7cc1-479a-94e0-d4a769cf4ab5.png">
+<img width="879" alt="Screen Shot 2021-11-18 at 4 09 59 PM" src="https://user-images.githubusercontent.com/88408350/142516476-62b40ad8-0de7-43dd-8f34-d45ce9f97edb.png">
 
-<img width="894" alt="Screen Shot 2021-11-17 at 8 26 33 PM" src="https://user-images.githubusercontent.com/88408350/142351736-85d5b444-a802-4ca3-a11f-7d3d1f897906.png">
+<img width="880" alt="Screen Shot 2021-11-18 at 4 10 14 PM" src="https://user-images.githubusercontent.com/88408350/142516497-891f55d7-e37e-43be-911a-f93a340c4c7b.png">
 
 
 ## Summary
